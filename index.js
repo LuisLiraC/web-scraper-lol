@@ -1,7 +1,6 @@
 const puppeteer = require('puppeteer')
 const fs = require('fs')
 const fileName = 'names.json'
-process.setMaxListeners(0)
 
 async function getChampions() {
   fs.exists(fileName, async (fileExists) => {
@@ -11,16 +10,14 @@ async function getChampions() {
           return console.log(err)
         }
         const champions = JSON.parse(data.toString())
-        const begin = 147
+        const begin = 0
         const end = (begin + 3) > data.length - 1 ? data.length - 1 : begin + 3
         for (let i = begin; i < end; i++) {
           getChampionData(champions[i], i)
         }
-
         // getChampionData('corki', 19) Corki is not on op.gg -- RIP :C
         // getChampionData('skarner', 107) Skarner is not on op.gg -- RIP :C
-        // getChampionData('wukong', 135) Skarner is not on op.gg -- RIP :C
-
+        // getChampionData('wukong', 135) Wukong is not on op.gg -- RIP :C
       })
     } else {
       const browser = await puppeteer.launch()
@@ -118,12 +115,13 @@ const getChampionData = async (champion, index) => {
     })
 
     data.champion_image = imgs.champion_image.replace(/^\/\/(.*\.png).*$/i, "$1")
-    data.abilities.map((abilitie, index) => {
-      abilitie.image = imgs.abilitiesImgs[index]
+    data.abilities.map((ability, index) => {
+      ability.image = imgs.abilitiesImgs[index]
     })
 
     fs.writeFile(`./champions/${champion}.json`, JSON.stringify(data), 'utf8', (err) => {
       if (err) {
+        browser.close()
         return console.log(err.message)
       }
       browser.close()
