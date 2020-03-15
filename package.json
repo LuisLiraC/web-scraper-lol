@@ -1,8 +1,9 @@
 {
-  "name": "web-scrapper-lol",
+  "name": "web-scraper-lol",
   "version": "1.0.0",
-  "description": "",
+  "description": "Web scraper to get data about each champion of the game since the official pages",
   "main": "index.js",
+  "repository": "https://github.com/LuisLiraC/web-scraper-lol",
   "scripts": {
     "start": "node index.js",
     "merge": "node mergeData.js"
