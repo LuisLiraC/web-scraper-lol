@@ -1,0 +1,46 @@
+{
+    "alias": "the emperor of the sands",
+    "name": "azir",
+    "role": "mage",
+    "abilities": [
+        {
+            "type": "Passive",
+            "name": "shurima's legacy",
+            "description": "Azir can summon the Disc of the Sun from the ruins of allied or enemy turrets.",
+            "image": "opgg-static.akamaized.net/images/lol/passive/Azir_Passive.png"
+        },
+        {
+            "type": "Q",
+            "name": "conquering sands",
+            "description": "Azir sends all Sand Soldiers towards a location. Sand Soldiers deal magic damage to enemies they pass through and apply a slow for 1 second.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/AzirQWrapper.png"
+        },
+        {
+            "type": "W",
+            "name": "arise!",
+            "description": "Azir summons a Sand Soldier to attack nearby targets for him, replacing his basic attack against targets within the soldier's range. Their attacks deal magic damage to enemies in a line. Arise! also passively grants attack speed to Azir and his Sand Soldiers.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/AzirW.png"
+        },
+        {
+            "type": "E",
+            "name": "shifting sands",
+            "description": "Azir shields himself briefly and dashes to one of his Sand Soldiers, damaging enemies. If he hits an enemy champion, he instantly readies a new Sand Soldier for deployment and halts his dash.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/AzirEWrapper.png"
+        },
+        {
+            "type": "R",
+            "name": "emperor's divide",
+            "description": "Azir summons a wall of soldiers which charge forward, knocking back and damaging enemies.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/AzirR.png"
+        }
+    ],
+    "skins": [
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_1.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_2.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_3.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_4.jpg"
+    ],
+    "region": "Shurima",
+    "champion_image": "opgg-static.akamaized.net/images/lol/champion/Azir.png"
+}

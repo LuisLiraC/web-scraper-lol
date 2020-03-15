@@ -1,0 +1,49 @@
+{
+    "alias": "the terror of the void",
+    "name": "cho'gath",
+    "role": "tank",
+    "abilities": [
+        {
+            "type": "Passive",
+            "name": "carnivore",
+            "description": "Whenever Cho'Gath kills a unit, he recovers Health and Mana. The values restored increase with Cho'Gath's level.",
+            "image": "opgg-static.akamaized.net/images/lol/passive/GreenTerror_TailSpike.png"
+        },
+        {
+            "type": "Q",
+            "name": "rupture",
+            "description": "Ruptures the ground at target location, popping enemy units into the air, dealing damage and slowing them.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/Rupture.png"
+        },
+        {
+            "type": "W",
+            "name": "feral scream",
+            "description": "Cho'Gath unleashes a terrible scream at enemies in a cone, dealing magic damage and Silencing enemies for a few seconds.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/FeralScream.png"
+        },
+        {
+            "type": "E",
+            "name": "vorpal spikes",
+            "description": "Cho'Gath's attacks release deadly spikes, dealing damage and slowing all enemy units in front of him.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/VorpalSpikes.png"
+        },
+        {
+            "type": "R",
+            "name": "feast",
+            "description": "Devours an enemy unit, dealing a high amount of true damage. If the target is killed, Cho'Gath grows, gaining maximum Health.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/Feast.png"
+        }
+    ],
+    "skins": [
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_1.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_2.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_3.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_4.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_5.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_6.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_7.jpg"
+    ],
+    "region": "The Void",
+    "champion_image": "opgg-static.akamaized.net/images/lol/champion/Chogath.png"
+}

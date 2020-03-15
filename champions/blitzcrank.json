@@ -1,0 +1,53 @@
+{
+    "alias": "the great steam golem",
+    "name": "blitzcrank",
+    "role": "tank",
+    "abilities": [
+        {
+            "type": "Passive",
+            "name": "mana barrier",
+            "description": "When Blitzcrank's life is brought below 20% health, he activates Mana Barrier. This creates a mana shield equal to 30% of his mana for 10 seconds. Mana Barrier can only occur once every 90 seconds.",
+            "image": "opgg-static.akamaized.net/images/lol/passive/Blitzcrank_ManaBarrier.png"
+        },
+        {
+            "type": "Q",
+            "name": "rocket grab",
+            "description": "Blitzcrank fires his right hand to grab an opponent on its path, dealing damage and dragging it back to him.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/RocketGrab.png"
+        },
+        {
+            "type": "W",
+            "name": "overdrive",
+            "description": "Blitzcrank super charges himself to get dramatically increased Movement and Attack Speed. He is temporarily slowed after the effect ends.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/Overdrive.png"
+        },
+        {
+            "type": "E",
+            "name": "power fist",
+            "description": "Blitzcrank charges up his fist to make his next attack deal double damage and pop his target up in the air.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/PowerFist.png"
+        },
+        {
+            "type": "R",
+            "name": "static field",
+            "description": "Enemies attacked by Blitzcrank are marked and take lightning damage after 1 second. Additionally, Blitzcrank can activate this ability to remove nearby enemies' shields, damage them, and silence them briefly.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/StaticField.png"
+        }
+    ],
+    "skins": [
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_1.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_2.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_3.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_4.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_5.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_6.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_7.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_11.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_20.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_21.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_22.jpg"
+    ],
+    "region": "Zaun",
+    "champion_image": "opgg-static.akamaized.net/images/lol/champion/Blitzcrank.png"
+}

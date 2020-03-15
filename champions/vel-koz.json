@@ -1,0 +1,45 @@
+{
+    "alias": "the eye of the void",
+    "name": "vel'koz",
+    "role": "mage",
+    "abilities": [
+        {
+            "type": "Passive",
+            "name": "organic deconstruction",
+            "description": "Vel'Koz's abilities apply Organic Deconstruction to enemies on hit. If 3 stacks are accumulated, the enemy will take a burst of true damage.",
+            "image": "opgg-static.akamaized.net/images/lol/passive/VelKoz_Passive.png"
+        },
+        {
+            "type": "Q",
+            "name": "plasma fission",
+            "description": "Vel'Koz shoots a bolt of plasma that splits in two on reactivation or upon hitting an enemy. The bolt slows and damages on hit.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/VelkozQ.png"
+        },
+        {
+            "type": "W",
+            "name": "void rift",
+            "description": "Vel'Koz opens a rift to the void that deals an initial burst of damage, then explodes for a second burst of damage after a delay.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/VelkozW.png"
+        },
+        {
+            "type": "E",
+            "name": "tectonic disruption",
+            "description": "Vel'Koz causes an area to explode, knocking up enemies, and knocking close enemies slightly away.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/VelkozE.png"
+        },
+        {
+            "type": "R",
+            "name": "life form disintegration ray",
+            "description": "Vel'Koz unleashes a channelled beam that follows the cursor for 2.5 seconds that deals magic damage. Organic Deconstruction Researches enemy champions causing them to take true damage instead.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/VelkozR.png"
+        }
+    ],
+    "skins": [
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_1.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_2.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_3.jpg"
+    ],
+    "region": "The Void",
+    "champion_image": "opgg-static.akamaized.net/images/lol/champion/Velkoz.png"
+}

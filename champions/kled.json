@@ -1,0 +1,44 @@
+{
+    "alias": "the cantankerous cavalier",
+    "name": "kled",
+    "role": "fighter",
+    "abilities": [
+        {
+            "type": "Passive",
+            "name": "skaarl, the cowardly lizard",
+            "description": "Kled rides his trusty steed, Skaarl, who takes damage for him. When Skaarl's health depletes, Kled dismounts.\n\nWhile dismounted, Kled's abilities change and he deals less damage to champions. Kled can restore Skaarl's courage by fighting enemies. At maximum courage, Kled remounts with a portion of Skaarl's health.",
+            "image": "opgg-static.akamaized.net/images/lol/passive/Kled_P.png"
+        },
+        {
+            "type": "Q",
+            "name": "bear trap on a rope",
+            "description": "Kled throws a bear trap that damages and hooks an enemy champion. If shackled for a short duration, the target takes additional physical damage and is yanked toward Kled.\n\nWhen dismounted, this ability is replaced by Pocket Pistol, a ranged gun blast that knocks back Kled and restores courage.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/KledQ.png"
+        },
+        {
+            "type": "W",
+            "name": "violent tendencies",
+            "description": "Kled gains massive attack speed for four attacks. The fourth attack deals more damage.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/KledW.png"
+        },
+        {
+            "type": "E",
+            "name": "jousting",
+            "description": "Kled dashes, dealing physical damage and gaining a short burst of speed. Kled can cast this ability again to dash back through his initial target, dealing the same damage.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/KledE.png"
+        },
+        {
+            "type": "R",
+            "name": "chaaaaaaaarge!!!",
+            "description": "Kled and Skaarl charge to a location, leaving a speed-granting trail behind them and gaining a shield. Skaarl locks onto and rams the first enemy champion encountered.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/KledR.png"
+        }
+    ],
+    "skins": [
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_1.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_2.jpg"
+    ],
+    "region": "Noxus",
+    "champion_image": "opgg-static.akamaized.net/images/lol/champion/Kled.png"
+}

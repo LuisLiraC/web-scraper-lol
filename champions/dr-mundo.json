@@ -1,0 +1,52 @@
+{
+    "alias": "the madman of zaun",
+    "name": "dr. mundo",
+    "role": "fighter",
+    "abilities": [
+        {
+            "type": "Passive",
+            "name": "adrenaline rush",
+            "description": "Dr. Mundo regenerates 0.3% of his maximum Health each second.",
+            "image": "opgg-static.akamaized.net/images/lol/passive/DrMundo_Passive.png"
+        },
+        {
+            "type": "Q",
+            "name": "infected cleaver",
+            "description": "Dr. Mundo hurls his cleaver, dealing damage equal to a portion of his target's current Health and slowing them for a short time. Dr. Mundo delights in the suffering of others, so he is returned a portion of the Health cost when he successfully lands a cleaver (doubled on killing blows).",
+            "image": "opgg-static.akamaized.net/images/lol/spell/InfectedCleaverMissileCast.png"
+        },
+        {
+            "type": "W",
+            "name": "burning agony",
+            "description": "Dr. Mundo drains his Health to reduce the duration of disables and deal continual damage to nearby enemies.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/BurningAgony.png"
+        },
+        {
+            "type": "E",
+            "name": "masochism",
+            "description": "Dr. Mundo gains bonus attack damage based on his missing health, and his next basic attack headbutts his target for additional damage. Passively increases magic resist whenever Dr. Mundo is dealt magic damage or pays a health cost.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/Masochism.png"
+        },
+        {
+            "type": "R",
+            "name": "sadism",
+            "description": "Dr. Mundo sacrifices a portion of his Health for increased Movement Speed and drastically increased Health Regeneration.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/Sadism.png"
+        }
+    ],
+    "skins": [
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_1.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_2.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_3.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_4.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_5.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_6.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_7.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_8.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_9.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_10.jpg"
+    ],
+    "region": "Zaun",
+    "champion_image": "opgg-static.akamaized.net/images/lol/champion/DrMundo.png"
+}

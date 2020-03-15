@@ -1,0 +1,20 @@
+{
+  "name": "web-scrapper-lol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "merge": "node mergeData.js"
+  },
+  "keywords": [
+    "Node",
+    "Puppeteer",
+    "League of Legends"
+  ],
+  "author": "LuisLiraC <luisliradev@gmail.com> (https://luislira.xyz/)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "2.1.1"
+  }
+}

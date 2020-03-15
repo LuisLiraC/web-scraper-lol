@@ -1,0 +1,48 @@
+{
+    "alias": "the void walker",
+    "name": "kassadin",
+    "role": "assassin",
+    "abilities": [
+        {
+            "type": "Passive",
+            "name": "void stone",
+            "description": "Kassadin takes 15% reduced magic damage and ignores unit collision.",
+            "image": "opgg-static.akamaized.net/images/lol/passive/Kassadin_Passive.png"
+        },
+        {
+            "type": "Q",
+            "name": "null sphere",
+            "description": "Kassadin fires an orb of void energy at a target, dealing damage and interrupting channels. The excess energy forms around himself, granting a temporary shield that absorbs magic damage.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/NullLance.png"
+        },
+        {
+            "type": "W",
+            "name": "nether blade",
+            "description": "Passive: Kassadin's basic attacks deal bonus magic damage. Active: Kassadin's next basic attack deals significant bonus magic damage and restores Mana.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/NetherBlade.png"
+        },
+        {
+            "type": "E",
+            "name": "force pulse",
+            "description": "Kassadin draws energy from spells cast in his vicinity. Upon charging up, Kassadin can use Force Pulse to damage and slow enemies in a cone in front of him.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/ForcePulse.png"
+        },
+        {
+            "type": "R",
+            "name": "riftwalk",
+            "description": "Kassadin teleports to a nearby location dealing damage to nearby enemy units. Multiple Riftwalks in a short period of time cost additional Mana but also deal additional damage.",
+            "image": "opgg-static.akamaized.net/images/lol/spell/RiftWalk.png"
+        }
+    ],
+    "skins": [
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_1.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_2.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_3.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_4.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_5.jpg",
+        "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_6.jpg"
+    ],
+    "region": "The Void",
+    "champion_image": "opgg-static.akamaized.net/images/lol/champion/Kassadin.png"
+}
